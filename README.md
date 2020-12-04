@@ -1,10 +1,14 @@
 # Python
 > Program :
 ```python
-  print("Hello World !")
+def main():
+    print("In main method")
+    
+if __name__=="__main__":
+    main()
 ```
 > Output :
 
-```python
-Hello World !`
-```
+`
+Hello World !
+`
