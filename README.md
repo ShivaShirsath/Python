@@ -6,5 +6,5 @@
 > Output :
 
 ```python
-# Hello World !`
+Hello World !`
 ```
