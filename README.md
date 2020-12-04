@@ -2,7 +2,7 @@
 > Program :
 ```python
 def main():
-    print("In main method")
+    print("Hello World !")
     
 if __name__=="__main__":
     main()
