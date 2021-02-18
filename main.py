@@ -1,10 +1,10 @@
-'''
+
 def main():
     print( "Hello World !" )
     
 if __name__ == "__main__" :
     main()
-'''
+
 
 #Below is a simple Python program that creates a class with single method.
 
