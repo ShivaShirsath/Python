@@ -2,7 +2,8 @@
 > Program :
 ```python
 def main():
-    print( "Hello World !" )
+    name = input("Enter your name : ")
+    print( "Hello", name, "!" )
     
 if __name__ == "__main__" :
     main()
@@ -10,5 +11,6 @@ if __name__ == "__main__" :
 > Output :
 
 `
-Hello World !
+Enter your name : Shiva
+Hello Shiva !
 `
