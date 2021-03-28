@@ -11,7 +11,6 @@ if __name__ == "__main__" :
 > Output :
 
 `
-Enter your name : Shiva
-
+Enter your name : Shiva   
 Hello Shiva !
 `
