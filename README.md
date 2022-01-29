@@ -11,15 +11,15 @@
       
       
       ```python
-      int     # 5
-      float   # 5.0
-      complex # 2 + 4j
-      str     # "String", 'String', """String""", '''String'''
-      list    # []
-      tuple   # ()
-      bool    # True or False
-      set     # {0, 1.2, 3+4j}
-      dict    # {'key':"value"}
+        int     # 0
+        float   # 1.2
+        complex # 3 + 4j
+        str     # "", '', """""", ''''''
+        list    # []
+        tuple   # ()
+        bool    # True, False
+        set     # {0, 1.2, 3+4j}
+        dict    # {}, {'key':"value"}
       ```
       
       
