@@ -7,8 +7,7 @@
     
   <details>
     <summary>Data Types</summary>
-    
-      ```python
+      
         int     # 0
         float   # 1.2
         complex # 3 + 4j
@@ -18,7 +17,6 @@
         bool    # True, False
         set     # {0, 1.2, 3+4j}
         dict    # {}, {'key':"value"}
-      ```
-  
+      
   </details>
 </details>
