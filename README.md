@@ -22,13 +22,35 @@
     
   <details>
     <summary>Operators</summary>
-      Arithmetic operators
-      Comparison operators
-      Assignment Operators
-      Logical Operators
-      Bitwise Operators
-      Membership Operators
-      Identity Operators  
+      
+      <details>
+          <summary>Arithmetic operators</summary>
+      </details>
+      
+      <details>
+          <summary>Comparison operators</summary>
+      </details>
+      
+      <details>
+          <summary>Assignment Operators</summary>
+      </details>
+      
+      <details>
+          <summary>Logical Operators</summary>
+      </details>
+      
+      <details>
+          <summary>Bitwise Operators</summary>
+      </details>
+      
+      <details>
+          <summary>Membership Operators</summary>
+      </details>
+      
+      <details>
+          <summary>Identity Operators</summary>
+      </details>
+      
     </details>
     
 </details>
