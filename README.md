@@ -21,36 +21,27 @@
   </details>
     
   <details>
-    <summary>Operators</summary>
-      
+    <summary>Operators</summary>  
       <details>
           <summary>Arithmetic operators</summary>
-      </details>
-      
+      </details> 
       <details>
           <summary>Comparison operators</summary>
-      </details>
-      
+      </details>  
       <details>
           <summary>Assignment Operators</summary>
-      </details>
-      
+      </details>  
       <details>
           <summary>Logical Operators</summary>
-      </details>
-      
+      </details>    
       <details>
           <summary>Bitwise Operators</summary>
-      </details>
-      
+      </details>    
       <details>
           <summary>Membership Operators</summary>
-      </details>
-      
+      </details>   
       <details>
           <summary>Identity Operators</summary>
-      </details>
-      
-    </details>
-    
+      </details>     
+    </details>   
 </details>
