@@ -9,29 +9,20 @@
     <details>
       <summary>Numeric</summary>
       
+      
       ```python
-      type(5)       # int
-      type(5.0)     # float
-      type(2 + 4j)  # complex
-      ```   
-      ```python
-      type("String")      # str 
-      type('String')      # str
-      type("""String""")  # str
-      type('''String''')  # str
-      ```      
-      ```python
-      type([0, 1.3, 4+5j, "String", ["items"], (100), True or False, {1, 2, 1}, {'key':"value"} ] )      # List 
-      ```      
-      ```python
-      type((0, 1.3, 4+5j, "String", ["items"], (100), True or False, {1, 2, 1}, {'key':"value"} ) )      # List 
-      ```      
-      ```python
-      type({0, 1.3, 4+5j, "String", ["items"], (100), True or False, {1, 2, 1}, {'key':"value"} } )      # List 
-      ```      
-      ```python
-      type({0: 1.3, 4+5j: "String", ["items"]: (100), True or False:{1, 2, 1}, 5: {'key':"value"} } )      # List 
+      int     # 5
+      float   # 5.0
+      complex # 2 + 4j
+      str     # "String", 'String', """String""", '''String'''
+      list    # []
+      tuple   # ()
+      bool    # True or False
+      set     # {0, 1.2, 3+4j}
+      dict    # {'key':"value"}
       ```
+      
+      
   </details>
 </details>
 </details>
