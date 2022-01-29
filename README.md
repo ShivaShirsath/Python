@@ -8,15 +8,15 @@
   <details>
     <summary>Data Types</summary>
       
-        int     # 0
-        float   # 1.2
-        complex # 3 + 4j
-        str     # "", '', """""", ''''''
-        list    # []
-        tuple   # ()
-        bool    # True, False
-        set     # {0, 1.2, 3+4j}
-        dict    # {}, {'key':"value"}
+0               # int
+1.2             # float
+3 + 4j          # complex
+''              # str
+[]              # list
+()              # tuple
+True or False   # bool
+{0, 1.2, 3+4j}  # set
+{'key':"value"} # dict
       
   </details>
 </details>
