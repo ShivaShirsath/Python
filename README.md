@@ -16,6 +16,7 @@
       ```
     
     </details>
+    
     <details>
       <summary>Data Types</summary>
     </details>
