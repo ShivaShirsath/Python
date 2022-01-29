@@ -6,10 +6,7 @@
   <summary></summary>
   <details>
     <summary>Data Types</summary>
-    <details>
-      <summary>Numeric</summary>
-      
-      
+    
       ```python
         int     # 0
         float   # 1.2
@@ -21,8 +18,6 @@
         set     # {0, 1.2, 3+4j}
         dict    # {}, {'key':"value"}
       ```
-      
-      
+  
   </details>
-</details>
 </details>
