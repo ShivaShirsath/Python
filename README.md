@@ -29,51 +29,26 @@
       type("""String""")  # str
       type('''String''')  # str
       ```
-      
-    </details>
-      
-    <details>
-      <summary>List (Sequence of data bounded in [])</summary>
-       
+        
       ```python
       type([0, 1.3, 4+5j, "String", ["items"], (100), True or False, {1, 2, 1}, {'key':"value"} ] )      # List 
       ```
-      
-    </details>
-      
-    <details>
-      <summary>Tuple</summary>
       
       ```python
       type((0, 1.3, 4+5j, "String", ["items"], (100), True or False, {1, 2, 1}, {'key':"value"} ) )      # List 
       ```
       
-    </details>
-      
-      
-    <details>
-      <summary>Tuple</summary>
-      
       ```python
       type({0, 1.3, 4+5j, "String", ["items"], (100), True or False, {1, 2, 1}, {'key':"value"} } )      # List 
       ```
-      
-    </details>
-      
-      
-    <details>
-      <summary>Tuple</summary>
       
       ```python
       type({0: 1.3, 4+5j: "String", ["items"]: (100), True or False:{1, 2, 1}, 5: {'key':"value"} } )      # List 
       ```
       
+   
     </details>
-      
-    </details>
-    <details>
-      <summary></summary>
-      
+  
     </details>
   </details>
 </details>
