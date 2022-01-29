@@ -19,4 +19,16 @@
     {'key':"value"} # dict
       
   </details>
+    
+  <details>
+    <summary>Operators</summary>
+      Arithmetic operators
+      Comparison operators
+      Assignment Operators
+      Logical Operators
+      Bitwise Operators
+      Membership Operators
+      Identity Operators  
+    </details>
+    
 </details>
