@@ -48,15 +48,19 @@
       <details>
           <summary>Assignment Operators</summary>
 
-          =   # assig
-          +=  # Addition and assign
-          -=  # Substraction and assign
-          *=  # Multiplication and assign
-          **= # Exponent and assign
-          /=  # Division and assign
-          //= # Floor Division and assign
-          %=  # Modulus and assign
-
+          =   # assig to left
+          +=  # Addition and assign to left
+          -=  # Substraction and assign to left
+          *=  # Multiplication and assign to left
+          **= # Exponent and assign to left
+          /=  # Division and assign to left
+          //= # Floor Division and assign to left
+          %=  # Modulus and assign to left
+          &=  # Bitwise AND and assign to left
+          |=  # Bitwise OR and assign to left
+          ^=  # Bitwise xOR and assign to left
+          >>= # Bitwise right shift and assign to left
+          <<= # Bitwise left shift and assign to left
 </details>  
       <details>
           <summary>Logical Operators</summary>
