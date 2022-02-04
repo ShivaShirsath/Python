@@ -47,7 +47,17 @@
 </details>  
       <details>
           <summary>Assignment Operators</summary>
-      </details>  
+
+          =   # assig
+          +=  # Addition and assign
+          -=  # Substraction and assign
+          *=  # Multiplication and assign
+          **= # Exponent and assign
+          /=  # Division and assign
+          //= # Floor Division and assign
+          %=  # Modulus and assign
+
+</details>  
       <details>
           <summary>Logical Operators</summary>
       </details>    
