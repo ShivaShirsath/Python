@@ -80,10 +80,16 @@
           << # Bitwise left shift
 </details>    
       <details>
-          <summary>Membership Operators</summary>
-      </details>   
+      <summary>Membership Operators</summary>
+
+      in     #     in the sequence
+      not in # not in the sequence
+</details>   
       <details>
           <summary>Identity Operators</summary>
-      </details>     
-    </details>   
+
+          is     #     identical
+          is not # not identical 
+</details>     
+</details>   
 </details>
