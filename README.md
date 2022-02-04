@@ -64,7 +64,11 @@
 </details>  
       <details>
           <summary>Logical Operators</summary>
-      </details>    
+          
+          and # Logical AND
+          or  # Logical OR
+          not # Logical NOT
+</details>    
       <details>
           <summary>Bitwise Operators</summary>
       </details>    
