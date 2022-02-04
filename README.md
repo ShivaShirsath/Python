@@ -24,10 +24,27 @@
     <summary>Operators</summary>  
       <details>
           <summary>Arithmetic operators</summary>
-      </details> 
+          
+          +  # Addition
+          -  # Substraction
+          *  # Multiplication
+          ** # Exponent
+          /  # Division
+          // # Floor Division
+          %  # Modulus    
+</details> 
       <details>
           <summary>Comparison operators</summary>
-      </details>  
+
+          <  # Less than
+          <= # Less than equal to
+          >  # Greater than
+          >= # Greater than equal to
+          == # Equal to
+          != # not equal to
+          
+
+</details>  
       <details>
           <summary>Assignment Operators</summary>
       </details>  
