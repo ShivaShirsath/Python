@@ -64,14 +64,21 @@
 </details>  
       <details>
           <summary>Logical Operators</summary>
-          
+
           and # Logical AND
           or  # Logical OR
           not # Logical NOT
 </details>    
       <details>
           <summary>Bitwise Operators</summary>
-      </details>    
+
+          &  # Bitwise AND
+          |  # Bitwise OR
+          ~  # Bitwise NOT
+          ^  # Bitwise XOR
+          >> # Bitwise right shift
+          << # Bitwise left shift
+</details>    
       <details>
           <summary>Membership Operators</summary>
       </details>   
